@@ -41,7 +41,7 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 
 ### 🔹 Use Case
 
-![Use Case](./diagrams/usecase.png)
+![Use Case](Use_case_diagram.png)
 
 ### 🔹 ERD
 
