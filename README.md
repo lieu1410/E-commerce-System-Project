@@ -61,8 +61,6 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 * UML & BPMN Modeling  
 * ERD (Data Modeling)
 * Draw.io (Diagrams) 
-* Jira (Task management)  
-* Figma (Wireframing)
 
 
 ## 📈 9. Key Business Insights
