@@ -20,7 +20,7 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 
 ## 🔄 4. Business Process Flow
 
-![Process Flow](https://mermaid.ai/d/058ad6e6-4a6d-46ac-a68c-b164d1de669c)
+![Process Flow](BPMN.png)
 
 
 ## 🧩 5. System Design
