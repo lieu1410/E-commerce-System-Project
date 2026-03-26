@@ -4,7 +4,6 @@
 
 This project analyzes and designs an end-to-end e-commerce system, focusing on improving user shopping experience and optimizing conversion rate.
 
----
 
 ## 🎯 2. Business Problem
 
@@ -12,7 +11,6 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 * High cart abandonment rate during checkout
 * Lack of transparency in order tracking
 
----
 
 ## 💡 3. Proposed Solution
 
@@ -20,13 +18,10 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 * Simplify checkout flow
 * Provide real-time order tracking
 
----
-
 ## 🔄 4. Business Process Flow
 
 ![Process Flow](./diagrams/bpmn.png)
 
----
 
 ## 🧩 5. System Design
 
@@ -41,7 +36,6 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 
 * ERD (User, Product, Cart, Order, Payment)
 
----
 
 ## 📸 6. Key Diagrams
 
@@ -53,8 +47,6 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 
 ![ERD](./diagrams/erd.png)
 
----
-
 ## 🧾 7. Documentation
 
 * BRD (Business Requirement Document)
@@ -62,7 +54,6 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 * User Stories & Acceptance Criteria
 * API Specification
 
----
 
 ## 🛠 8. Tools & Technologies
 
@@ -73,7 +64,6 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 * Jira (Task management)  
 * Figma (Wireframing)
 
----
 
 ## 📈 9. Key Business Insights
 
@@ -81,7 +71,6 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 * Simplifying payment flow reduces drop-off
 * Fast product search improves user engagement
 
----
 
 ## 🚀 10. Key Learnings
 
@@ -89,7 +78,6 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 * Writing clear and testable requirements
 * Translating business needs into system design
 
----
 
 ## 👤 11. Author
 
