@@ -45,7 +45,7 @@ This project analyzes and designs an end-to-end e-commerce system, focusing on i
 
 ### 🔹 ERD
 
-![ERD](./diagrams/erd.png)
+![ERD](ERD.drawio.png)
 
 ## 🧾 7. Documentation
 
